@@ -20,5 +20,4 @@ A real-time multiplayer chess game built with **Node.js, Express.js, Socket.io, 
 * **Socket.io**
 * **Chess.js**
 * **EJS**
-*
 
