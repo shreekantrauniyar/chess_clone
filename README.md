@@ -1,4 +1,4 @@
-# chess_clone
+
 # ♟️ Chess Clone
 
 A real-time multiplayer chess game built with **Node.js, Express.js, Socket.io, and Chess.js**.
